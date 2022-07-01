@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Programmer\c#\Power\PowerCSharp\PowerCSharp\bin\Debug\netcoreapp3.1\PowerCSharp.exe
+C:\Users\HP\Desktop\Programmer\c#\Power\PowerCSharp\PowerCSharp\bin\Debug\netcoreapp3.1\PowerCSharp.deps.json
+C:\Users\HP\Desktop\Programmer\c#\Power\PowerCSharp\PowerCSharp\bin\Debug\netcoreapp3.1\PowerCSharp.runtimeconfig.json
+C:\Users\HP\Desktop\Programmer\c#\Power\PowerCSharp\PowerCSharp\bin\Debug\netcoreapp3.1\PowerCSharp.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Programmer\c#\Power\PowerCSharp\PowerCSharp\bin\Debug\netcoreapp3.1\PowerCSharp.dll
+C:\Users\HP\Desktop\Programmer\c#\Power\PowerCSharp\PowerCSharp\bin\Debug\netcoreapp3.1\PowerCSharp.pdb
+C:\Users\HP\Desktop\Programmer\c#\Power\PowerCSharp\PowerCSharp\obj\Debug\netcoreapp3.1\PowerCSharp.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programmer\c#\Power\PowerCSharp\PowerCSharp\obj\Debug\netcoreapp3.1\PowerCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Programmer\c#\Power\PowerCSharp\PowerCSharp\obj\Debug\netcoreapp3.1\PowerCSharp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Programmer\c#\Power\PowerCSharp\PowerCSharp\obj\Debug\netcoreapp3.1\PowerCSharp.AssemblyInfo.cs
+C:\Users\HP\Desktop\Programmer\c#\Power\PowerCSharp\PowerCSharp\obj\Debug\netcoreapp3.1\PowerCSharp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programmer\c#\Power\PowerCSharp\PowerCSharp\obj\Debug\netcoreapp3.1\PowerCSharp.dll
+C:\Users\HP\Desktop\Programmer\c#\Power\PowerCSharp\PowerCSharp\obj\Debug\netcoreapp3.1\PowerCSharp.pdb
+C:\Users\HP\Desktop\Programmer\c#\Power\PowerCSharp\PowerCSharp\obj\Debug\netcoreapp3.1\PowerCSharp.genruntimeconfig.cache
